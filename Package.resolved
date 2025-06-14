@@ -60,7 +60,7 @@
       "location" : "https://github.com/nox-devices/swift-transformers",
       "state" : {
         "branch" : "nox",
-        "revision" : "940a4fac109d7d68817b22382de4894a8ea945c3"
+        "revision" : "be855fac725dbae27264e47a3eb535cc422a4ba8" 
       }
     }
   ],
